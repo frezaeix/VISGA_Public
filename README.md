@@ -10,7 +10,7 @@ In order to robustly deploy object detectors across a wide range  of  scenarios,
 [![ViSGA: Check our video!](https://img.youtube.com/vi/80nVoFubm3c/0.jpg)](https://www.youtube.com/watch?v=80nVoFubm3c "ViSGA: Check our video!")
 
 ## Pretrained Model & Results
-The following results are all tested with Resnet-50 backbone.  
+The following results are all tested with Resnet-50 backbone. By using this implementation "[Domain Adaptive Faster R-CNN in PyTorch](https://github.com/krumo/Domain-Adaptive-Faster-RCNN-PyTorch)", you can test our models. 
 
 | Scenario                       | AP@50 |  url  | im / gpu |  logs  |
 |--------------------------------|:-----:|:-----:|:--------:|--------|
